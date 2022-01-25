@@ -1,0 +1,8 @@
+C:\NBH\Day1project\Dya1project1\Dya1project1\bin\Debug\Dya1project1.exe.config
+C:\NBH\Day1project\Dya1project1\Dya1project1\bin\Debug\Dya1project1.exe
+C:\NBH\Day1project\Dya1project1\Dya1project1\bin\Debug\Dya1project1.pdb
+C:\NBH\Day1project\Dya1project1\Dya1project1\obj\Debug\Dya1project1.csproj.AssemblyReference.cache
+C:\NBH\Day1project\Dya1project1\Dya1project1\obj\Debug\Dya1project1.csproj.SuggestedBindingRedirects.cache
+C:\NBH\Day1project\Dya1project1\Dya1project1\obj\Debug\Dya1project1.csproj.CoreCompileInputs.cache
+C:\NBH\Day1project\Dya1project1\Dya1project1\obj\Debug\Dya1project1.exe
+C:\NBH\Day1project\Dya1project1\Dya1project1\obj\Debug\Dya1project1.pdb

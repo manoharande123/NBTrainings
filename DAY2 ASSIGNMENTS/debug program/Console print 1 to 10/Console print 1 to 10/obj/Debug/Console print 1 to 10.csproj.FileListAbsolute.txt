@@ -1,0 +1,8 @@
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\bin\Debug\Console print 1 to 10.exe.config
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\bin\Debug\Console print 1 to 10.exe
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\bin\Debug\Console print 1 to 10.pdb
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\obj\Debug\Console print 1 to 10.csproj.AssemblyReference.cache
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\obj\Debug\Console print 1 to 10.csproj.SuggestedBindingRedirects.cache
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\obj\Debug\Console print 1 to 10.csproj.CoreCompileInputs.cache
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\obj\Debug\Console print 1 to 10.exe
+C:\NBH\day2 project\Console print 1 to 10\Console print 1 to 10\obj\Debug\Console print 1 to 10.pdb

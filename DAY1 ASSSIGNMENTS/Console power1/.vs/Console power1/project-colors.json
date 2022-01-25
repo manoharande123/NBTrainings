@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc6a24c2-258e-4d30-8dec-143eaeaed5c2": {
+      "ProjectGuid": "bc6a24c2-258e-4d30-8dec-143eaeaed5c2",
+      "DisplayName": "Console power1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

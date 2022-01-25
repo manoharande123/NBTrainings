@@ -1,0 +1,11 @@
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows power1.csproj.AssemblyReference.cache
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows power1.csproj.SuggestedBindingRedirects.cache
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows_power1.Form1.resources
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows_power1.Properties.Resources.resources
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows power1.csproj.GenerateResource.cache
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows power1.csproj.CoreCompileInputs.cache
+C:\NBH\Day1project\Windows power1\Windows power1\bin\Debug\Windows power1.exe.config
+C:\NBH\Day1project\Windows power1\Windows power1\bin\Debug\Windows power1.exe
+C:\NBH\Day1project\Windows power1\Windows power1\bin\Debug\Windows power1.pdb
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows power1.exe
+C:\NBH\Day1project\Windows power1\Windows power1\obj\Debug\Windows power1.pdb

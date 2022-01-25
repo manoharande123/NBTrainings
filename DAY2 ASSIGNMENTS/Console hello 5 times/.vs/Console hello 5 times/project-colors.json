@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b74936af-8780-40ab-9ea3-16dd750eb79f": {
+      "ProjectGuid": "b74936af-8780-40ab-9ea3-16dd750eb79f",
+      "DisplayName": "Console hello 5 times",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

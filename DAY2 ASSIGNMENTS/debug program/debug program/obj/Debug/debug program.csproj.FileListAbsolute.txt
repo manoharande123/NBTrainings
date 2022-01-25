@@ -1,0 +1,8 @@
+C:\NBH\day2 project\debug program\debug program\obj\Debug\debug program.csproj.AssemblyReference.cache
+C:\NBH\day2 project\debug program\debug program\obj\Debug\debug program.csproj.SuggestedBindingRedirects.cache
+C:\NBH\day2 project\debug program\debug program\obj\Debug\debug program.csproj.CoreCompileInputs.cache
+C:\NBH\day2 project\debug program\debug program\bin\Debug\debug program.exe.config
+C:\NBH\day2 project\debug program\debug program\bin\Debug\debug program.exe
+C:\NBH\day2 project\debug program\debug program\bin\Debug\debug program.pdb
+C:\NBH\day2 project\debug program\debug program\obj\Debug\debug program.exe
+C:\NBH\day2 project\debug program\debug program\obj\Debug\debug program.pdb

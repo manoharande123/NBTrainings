@@ -1,0 +1,8 @@
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\bin\Debug\Console hello 5 times.exe.config
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\bin\Debug\Console hello 5 times.exe
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\bin\Debug\Console hello 5 times.pdb
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\obj\Debug\Console hello 5 times.csproj.AssemblyReference.cache
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\obj\Debug\Console hello 5 times.csproj.SuggestedBindingRedirects.cache
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\obj\Debug\Console hello 5 times.csproj.CoreCompileInputs.cache
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\obj\Debug\Console hello 5 times.exe
+C:\NBH\day2 project\Console hello 5 times\Console hello 5 times\obj\Debug\Console hello 5 times.pdb
