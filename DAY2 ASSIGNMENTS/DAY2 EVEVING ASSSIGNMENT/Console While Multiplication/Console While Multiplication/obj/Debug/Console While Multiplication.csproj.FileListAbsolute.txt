@@ -1,0 +1,7 @@
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console While Multiplication\Console While Multiplication\bin\Debug\Console While Multiplication.exe.config
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console While Multiplication\Console While Multiplication\bin\Debug\Console While Multiplication.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console While Multiplication\Console While Multiplication\bin\Debug\Console While Multiplication.pdb
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console While Multiplication\Console While Multiplication\obj\Debug\Console While Multiplication.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console While Multiplication\Console While Multiplication\obj\Debug\Console While Multiplication.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console While Multiplication\Console While Multiplication\obj\Debug\Console While Multiplication.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console While Multiplication\Console While Multiplication\obj\Debug\Console While Multiplication.pdb

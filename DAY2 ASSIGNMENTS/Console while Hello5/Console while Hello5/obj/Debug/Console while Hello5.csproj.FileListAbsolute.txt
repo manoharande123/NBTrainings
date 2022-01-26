@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\bin\Debug\Console while Hello5.exe.config
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\bin\Debug\Console while Hello5.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\bin\Debug\Console while Hello5.pdb
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\obj\Debug\Console while Hello5.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\obj\Debug\Console while Hello5.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\obj\Debug\Console while Hello5.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\obj\Debug\Console while Hello5.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console while Hello5\Console while Hello5\obj\Debug\Console while Hello5.pdb

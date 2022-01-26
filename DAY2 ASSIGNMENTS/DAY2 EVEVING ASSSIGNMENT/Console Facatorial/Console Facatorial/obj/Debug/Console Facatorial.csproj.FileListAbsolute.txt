@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\bin\Debug\Console Facatorial.exe.config
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\bin\Debug\Console Facatorial.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\bin\Debug\Console Facatorial.pdb
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\obj\Debug\Console Facatorial.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\obj\Debug\Console Facatorial.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\obj\Debug\Console Facatorial.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\obj\Debug\Console Facatorial.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Facatorial\Console Facatorial\obj\Debug\Console Facatorial.pdb

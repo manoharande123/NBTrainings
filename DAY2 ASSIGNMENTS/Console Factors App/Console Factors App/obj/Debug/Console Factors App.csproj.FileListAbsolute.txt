@@ -1,0 +1,7 @@
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Factors App\Console Factors App\bin\Debug\Console Factors App.exe.config
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Factors App\Console Factors App\bin\Debug\Console Factors App.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Factors App\Console Factors App\bin\Debug\Console Factors App.pdb
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Factors App\Console Factors App\obj\Debug\Console Factors App.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Factors App\Console Factors App\obj\Debug\Console Factors App.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Factors App\Console Factors App\obj\Debug\Console Factors App.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Factors App\Console Factors App\obj\Debug\Console Factors App.pdb

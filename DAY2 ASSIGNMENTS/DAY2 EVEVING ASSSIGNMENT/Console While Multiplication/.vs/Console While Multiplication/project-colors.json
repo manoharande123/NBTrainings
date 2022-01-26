@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c830db21-21ea-4534-983f-9b0522f66ad8": {
+      "ProjectGuid": "c830db21-21ea-4534-983f-9b0522f66ad8",
+      "DisplayName": "Console While Multiplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

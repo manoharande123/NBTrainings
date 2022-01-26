@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46addcb1-ed3c-4abd-bb03-118c858b3306": {
+      "ProjectGuid": "46addcb1-ed3c-4abd-bb03-118c858b3306",
+      "DisplayName": "Console Factors App",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

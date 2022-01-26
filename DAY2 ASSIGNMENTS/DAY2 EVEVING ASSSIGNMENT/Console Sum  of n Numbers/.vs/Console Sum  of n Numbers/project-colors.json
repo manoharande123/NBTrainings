@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73f2c5a6-a701-44a1-aef6-12a20f3f22e5": {
+      "ProjectGuid": "73f2c5a6-a701-44a1-aef6-12a20f3f22e5",
+      "DisplayName": "Console Sum  of n Numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

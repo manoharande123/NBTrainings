@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b4d0c38-4ac4-49d0-b8ca-1eb071818edb": {
+      "ProjectGuid": "4b4d0c38-4ac4-49d0-b8ca-1eb071818edb",
+      "DisplayName": "Console while Hello5",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\bin\Debug\Console Multiplication Table.exe.config
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\bin\Debug\Console Multiplication Table.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\bin\Debug\Console Multiplication Table.pdb
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\obj\Debug\Console Multiplication Table.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\obj\Debug\Console Multiplication Table.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\obj\Debug\Console Multiplication Table.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\obj\Debug\Console Multiplication Table.exe
+D:\NBTRAININGS\DAY2 ASSIGNMENTS\Console Multiplication Table\Console Multiplication Table\obj\Debug\Console Multiplication Table.pdb

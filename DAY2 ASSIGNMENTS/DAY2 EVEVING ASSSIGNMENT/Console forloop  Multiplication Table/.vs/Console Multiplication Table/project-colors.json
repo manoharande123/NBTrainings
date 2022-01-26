@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4b5773e-ca4b-445b-98cf-79d29cb10491": {
+      "ProjectGuid": "d4b5773e-ca4b-445b-98cf-79d29cb10491",
+      "DisplayName": "Console Multiplication Table",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
