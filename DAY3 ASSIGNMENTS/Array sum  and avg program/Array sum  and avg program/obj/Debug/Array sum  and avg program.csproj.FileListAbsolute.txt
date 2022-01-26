@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\bin\Debug\Array sum  and avg program.exe.config
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\bin\Debug\Array sum  and avg program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\bin\Debug\Array sum  and avg program.pdb
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\obj\Debug\Array sum  and avg program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\obj\Debug\Array sum  and avg program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\obj\Debug\Array sum  and avg program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\obj\Debug\Array sum  and avg program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Array sum  and avg program\Array sum  and avg program\obj\Debug\Array sum  and avg program.pdb

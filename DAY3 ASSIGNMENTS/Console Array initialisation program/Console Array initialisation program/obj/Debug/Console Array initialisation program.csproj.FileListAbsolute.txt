@@ -1,0 +1,7 @@
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console Array initialisation program\Console Array initialisation program\bin\Debug\Console Array initialisation program.exe.config
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console Array initialisation program\Console Array initialisation program\bin\Debug\Console Array initialisation program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console Array initialisation program\Console Array initialisation program\bin\Debug\Console Array initialisation program.pdb
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console Array initialisation program\Console Array initialisation program\obj\Debug\Console Array initialisation program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console Array initialisation program\Console Array initialisation program\obj\Debug\Console Array initialisation program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console Array initialisation program\Console Array initialisation program\obj\Debug\Console Array initialisation program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console Array initialisation program\Console Array initialisation program\obj\Debug\Console Array initialisation program.pdb

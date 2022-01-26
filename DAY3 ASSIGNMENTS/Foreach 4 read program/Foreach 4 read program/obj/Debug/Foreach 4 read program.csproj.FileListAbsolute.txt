@@ -1,0 +1,7 @@
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Foreach 4 read program\Foreach 4 read program\bin\Debug\Foreach 4 read program.exe.config
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Foreach 4 read program\Foreach 4 read program\bin\Debug\Foreach 4 read program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Foreach 4 read program\Foreach 4 read program\bin\Debug\Foreach 4 read program.pdb
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Foreach 4 read program\Foreach 4 read program\obj\Debug\Foreach 4 read program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Foreach 4 read program\Foreach 4 read program\obj\Debug\Foreach 4 read program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Foreach 4 read program\Foreach 4 read program\obj\Debug\Foreach 4 read program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Foreach 4 read program\Foreach 4 read program\obj\Debug\Foreach 4 read program.pdb

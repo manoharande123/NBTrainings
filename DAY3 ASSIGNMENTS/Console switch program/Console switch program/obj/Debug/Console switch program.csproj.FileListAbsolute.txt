@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\bin\Debug\Console switch program.exe.config
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\bin\Debug\Console switch program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\bin\Debug\Console switch program.pdb
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\obj\Debug\Console switch program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\obj\Debug\Console switch program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\obj\Debug\Console switch program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\obj\Debug\Console switch program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\Console switch program\Console switch program\obj\Debug\Console switch program.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df73f333-b38f-489a-a88d-8cf7cdad1eed": {
+      "ProjectGuid": "df73f333-b38f-489a-a88d-8cf7cdad1eed",
+      "DisplayName": "Console switch program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

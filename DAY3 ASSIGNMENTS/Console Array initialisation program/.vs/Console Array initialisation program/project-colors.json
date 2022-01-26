@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "620230b3-efc4-4526-a5eb-c2e91ebfb4f4": {
+      "ProjectGuid": "620230b3-efc4-4526-a5eb-c2e91ebfb4f4",
+      "DisplayName": "Console Array initialisation program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

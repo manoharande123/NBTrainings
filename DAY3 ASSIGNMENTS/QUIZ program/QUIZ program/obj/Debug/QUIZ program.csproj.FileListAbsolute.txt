@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\bin\Debug\QUIZ program.exe.config
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\bin\Debug\QUIZ program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\bin\Debug\QUIZ program.pdb
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\obj\Debug\QUIZ program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\obj\Debug\QUIZ program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\obj\Debug\QUIZ program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\obj\Debug\QUIZ program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\QUIZ program\QUIZ program\obj\Debug\QUIZ program.pdb

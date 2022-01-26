@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e0a1778-ae35-488b-acd6-37f71dd4a25a": {
+      "ProjectGuid": "4e0a1778-ae35-488b-acd6-37f71dd4a25a",
+      "DisplayName": "Foreach 4 read program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
