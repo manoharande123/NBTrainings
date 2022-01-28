@@ -5,6 +5,11 @@
       "ProjectGuid": "05b03b7b-bf07-4987-a180-ddc45423604a",
       "DisplayName": "Console print 1 to 10",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

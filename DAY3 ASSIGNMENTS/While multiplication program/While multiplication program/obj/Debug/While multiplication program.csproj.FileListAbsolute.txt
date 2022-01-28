@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\bin\Debug\While multiplication program.exe.config
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\bin\Debug\While multiplication program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\bin\Debug\While multiplication program.pdb
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\obj\Debug\While multiplication program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\obj\Debug\While multiplication program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\obj\Debug\While multiplication program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\obj\Debug\While multiplication program.exe
+D:\NBTRAININGS\DAY3 ASSIGNMENTS\While multiplication program\While multiplication program\obj\Debug\While multiplication program.pdb
