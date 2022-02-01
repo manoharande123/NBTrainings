@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48c50e27-fbac-4910-bd16-6a09ba237569": {
+      "ProjectGuid": "48c50e27-fbac-4910-bd16-6a09ba237569",
+      "DisplayName": "list using lambda",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

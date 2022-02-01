@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\bin\Debug\DAY7 Employees 5000 salary.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\bin\Debug\DAY7 Employees 5000 salary.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\bin\Debug\DAY7 Employees 5000 salary.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\obj\Debug\DAY7 Employees 5000 salary.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\obj\Debug\DAY7 Employees 5000 salary.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\obj\Debug\DAY7 Employees 5000 salary.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\obj\Debug\DAY7 Employees 5000 salary.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Employees 5000 salary\DAY7 Employees 5000 salary\obj\Debug\DAY7 Employees 5000 salary.pdb

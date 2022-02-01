@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\bin\Debug\list using lambda.exe.config
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\bin\Debug\list using lambda.exe
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\bin\Debug\list using lambda.pdb
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\obj\Debug\list using lambda.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\obj\Debug\list using lambda.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\obj\Debug\list using lambda.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\obj\Debug\list using lambda.exe
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\list using lambda\list using lambda\obj\Debug\list using lambda.pdb

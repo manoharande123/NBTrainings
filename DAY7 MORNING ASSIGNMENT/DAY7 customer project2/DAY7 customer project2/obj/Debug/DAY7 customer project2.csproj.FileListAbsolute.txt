@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\bin\Debug\DAY7 customer project2.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\bin\Debug\DAY7 customer project2.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\bin\Debug\DAY7 customer project2.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\obj\Debug\DAY7 customer project2.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\obj\Debug\DAY7 customer project2.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\obj\Debug\DAY7 customer project2.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\obj\Debug\DAY7 customer project2.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 customer project2\DAY7 customer project2\obj\Debug\DAY7 customer project2.pdb

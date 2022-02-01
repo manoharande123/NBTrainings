@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\bin\Debug\DAY7 class seller.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\bin\Debug\DAY7 class seller.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\bin\Debug\DAY7 class seller.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\obj\Debug\DAY7 class seller.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\obj\Debug\DAY7 class seller.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\obj\Debug\DAY7 class seller.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\obj\Debug\DAY7 class seller.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 class seller\DAY7 class seller\obj\Debug\DAY7 class seller.pdb

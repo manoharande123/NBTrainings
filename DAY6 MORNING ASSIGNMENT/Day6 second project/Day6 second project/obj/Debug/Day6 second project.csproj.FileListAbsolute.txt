@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\bin\Debug\Day6 second project.exe.config
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\bin\Debug\Day6 second project.exe
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\bin\Debug\Day6 second project.pdb
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\obj\Debug\Day6 second project.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\obj\Debug\Day6 second project.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\obj\Debug\Day6 second project.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\obj\Debug\Day6 second project.exe
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\Day6 second project\Day6 second project\obj\Debug\Day6 second project.pdb

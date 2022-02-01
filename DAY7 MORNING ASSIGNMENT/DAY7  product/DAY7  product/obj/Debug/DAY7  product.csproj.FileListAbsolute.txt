@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\obj\Debug\DAY7  product.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\obj\Debug\DAY7  product.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\obj\Debug\DAY7  product.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\bin\Debug\DAY7  product.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\bin\Debug\DAY7  product.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\bin\Debug\DAY7  product.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\obj\Debug\DAY7  product.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7  product\DAY7  product\obj\Debug\DAY7  product.pdb

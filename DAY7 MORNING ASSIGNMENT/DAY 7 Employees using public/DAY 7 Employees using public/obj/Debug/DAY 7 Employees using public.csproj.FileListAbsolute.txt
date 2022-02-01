@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\bin\Debug\DAY 7 Employees using public.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\bin\Debug\DAY 7 Employees using public.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\bin\Debug\DAY 7 Employees using public.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\obj\Debug\DAY 7 Employees using public.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\obj\Debug\DAY 7 Employees using public.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\obj\Debug\DAY 7 Employees using public.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\obj\Debug\DAY 7 Employees using public.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY 7 Employees using public\DAY 7 Employees using public\obj\Debug\DAY 7 Employees using public.pdb

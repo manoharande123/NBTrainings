@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\bin\Debug\Day7 object initialization project.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\bin\Debug\Day7 object initialization project.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\bin\Debug\Day7 object initialization project.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\obj\Debug\Day7 object initialization project.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\obj\Debug\Day7 object initialization project.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\obj\Debug\Day7 object initialization project.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\obj\Debug\Day7 object initialization project.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 object initialization project\Day7 object initialization project\obj\Debug\Day7 object initialization project.pdb

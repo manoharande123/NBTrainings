@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\bin\Debug\DAY7 Customer class using lambda.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\bin\Debug\DAY7 Customer class using lambda.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\bin\Debug\DAY7 Customer class using lambda.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\obj\Debug\DAY7 Customer class using lambda.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\obj\Debug\DAY7 Customer class using lambda.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\obj\Debug\DAY7 Customer class using lambda.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\obj\Debug\DAY7 Customer class using lambda.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\DAY7 Customer class using lambda\DAY7 Customer class using lambda\obj\Debug\DAY7 Customer class using lambda.pdb

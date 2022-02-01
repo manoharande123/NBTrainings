@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a64efa46-edb6-4a56-a357-17e96f1ffeae": {
+      "ProjectGuid": "a64efa46-edb6-4a56-a357-17e96f1ffeae",
+      "DisplayName": "Day6 second project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

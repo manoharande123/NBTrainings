@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\bin\Debug\Day7 product class using lamda.exe.config
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\bin\Debug\Day7 product class using lamda.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\bin\Debug\Day7 product class using lamda.pdb
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\obj\Debug\Day7 product class using lamda.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\obj\Debug\Day7 product class using lamda.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\obj\Debug\Day7 product class using lamda.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\obj\Debug\Day7 product class using lamda.exe
+D:\NBTRAININGS\DAY7 MORNING ASSIGNMENT\Day7 product class using lamda\Day7 product class using lamda\obj\Debug\Day7 product class using lamda.pdb

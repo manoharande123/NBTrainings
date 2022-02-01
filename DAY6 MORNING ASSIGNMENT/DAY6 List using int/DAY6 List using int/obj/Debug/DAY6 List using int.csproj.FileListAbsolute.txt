@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\obj\Debug\DAY6 List using int.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\obj\Debug\DAY6 List using int.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\obj\Debug\DAY6 List using int.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\bin\Debug\DAY6 List using int.exe.config
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\bin\Debug\DAY6 List using int.exe
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\bin\Debug\DAY6 List using int.pdb
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\obj\Debug\DAY6 List using int.exe
+D:\NBTRAININGS\DAY6 MORNING ASSIGNMEN\DAY6 List using int\DAY6 List using int\obj\Debug\DAY6 List using int.pdb
