@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\bin\Debug\DAY8  Class emoloyees.exe.config
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\bin\Debug\DAY8  Class emoloyees.exe
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\bin\Debug\DAY8  Class emoloyees.pdb
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\obj\Debug\DAY8  Class emoloyees.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\obj\Debug\DAY8  Class emoloyees.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\obj\Debug\DAY8  Class emoloyees.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\obj\Debug\DAY8  Class emoloyees.exe
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\DAY8  Class emoloyees\DAY8  Class emoloyees\obj\Debug\DAY8  Class emoloyees.pdb
