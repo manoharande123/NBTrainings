@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\bin\Debug\Bubblesort program.exe.config
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\bin\Debug\Bubblesort program.exe
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\bin\Debug\Bubblesort program.pdb
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\obj\Debug\Bubblesort program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\obj\Debug\Bubblesort program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\obj\Debug\Bubblesort program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\obj\Debug\Bubblesort program.exe
+D:\NBTRAININGS\DAY8 MORNING ASSIGNMENTS\Bubblesort program\Bubblesort program\obj\Debug\Bubblesort program.pdb

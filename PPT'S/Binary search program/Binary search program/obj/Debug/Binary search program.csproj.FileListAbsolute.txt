@@ -1,0 +1,8 @@
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\bin\Debug\Binary search program.exe.config
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\bin\Debug\Binary search program.exe
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\bin\Debug\Binary search program.pdb
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\obj\Debug\Binary search program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\obj\Debug\Binary search program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\obj\Debug\Binary search program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\obj\Debug\Binary search program.exe
+D:\NBTRAININGS\PPT'S\Binary search program\Binary search program\obj\Debug\Binary search program.pdb

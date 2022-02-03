@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50c3b1bb-e634-4a37-8063-b8297a232175": {
+      "ProjectGuid": "50c3b1bb-e634-4a37-8063-b8297a232175",
+      "DisplayName": "Linear search program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
