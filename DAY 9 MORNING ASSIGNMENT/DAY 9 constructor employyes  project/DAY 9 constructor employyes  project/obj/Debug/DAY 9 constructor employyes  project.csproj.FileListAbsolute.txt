@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\bin\Debug\DAY 9 constructor employyes  project.exe.config
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\bin\Debug\DAY 9 constructor employyes  project.exe
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\bin\Debug\DAY 9 constructor employyes  project.pdb
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\obj\Debug\DAY 9 constructor employyes  project.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\obj\Debug\DAY 9 constructor employyes  project.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\obj\Debug\DAY 9 constructor employyes  project.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\obj\Debug\DAY 9 constructor employyes  project.exe
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY 9 constructor employyes  project\DAY 9 constructor employyes  project\obj\Debug\DAY 9 constructor employyes  project.pdb
