@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\bin\Debug\DAY10 multi level inharitance.exe.config
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\bin\Debug\DAY10 multi level inharitance.exe
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\bin\Debug\DAY10 multi level inharitance.pdb
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\obj\Debug\DAY10 multi level inharitance.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\obj\Debug\DAY10 multi level inharitance.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\obj\Debug\DAY10 multi level inharitance.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\obj\Debug\DAY10 multi level inharitance.exe
+D:\NBTRAININGS\DAY 9 MORNING ASSIGNMENT\DAY10 multi level inharitance\DAY10 multi level inharitance\obj\Debug\DAY10 multi level inharitance.pdb
