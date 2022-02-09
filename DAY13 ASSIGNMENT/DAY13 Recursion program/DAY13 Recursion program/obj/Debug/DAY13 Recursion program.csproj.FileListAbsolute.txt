@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\bin\Debug\DAY13 Recursion program.exe.config
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\bin\Debug\DAY13 Recursion program.exe
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\bin\Debug\DAY13 Recursion program.pdb
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\obj\Debug\DAY13 Recursion program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\obj\Debug\DAY13 Recursion program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\obj\Debug\DAY13 Recursion program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\obj\Debug\DAY13 Recursion program.exe
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Recursion program\DAY13 Recursion program\obj\Debug\DAY13 Recursion program.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17272cac-4d0b-46a7-a2e2-67027ede7b21": {
+      "ProjectGuid": "17272cac-4d0b-46a7-a2e2-67027ede7b21",
+      "DisplayName": "DAY13 PROJECT4",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

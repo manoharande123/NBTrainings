@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\bin\Debug\DAY13 Jagged Array program.exe.config
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\bin\Debug\DAY13 Jagged Array program.exe
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\bin\Debug\DAY13 Jagged Array program.pdb
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\obj\Debug\DAY13 Jagged Array program.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\obj\Debug\DAY13 Jagged Array program.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\obj\Debug\DAY13 Jagged Array program.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\obj\Debug\DAY13 Jagged Array program.exe
+D:\NBTRAININGS\DAY13 ASSIGNMENT\DAY13 Jagged Array program\DAY13 Jagged Array program\obj\Debug\DAY13 Jagged Array program.pdb
