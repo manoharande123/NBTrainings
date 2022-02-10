@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\bin\Debug\Day 14 project 2.exe.config
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\bin\Debug\Day 14 project 2.exe
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\bin\Debug\Day 14 project 2.pdb
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\obj\Debug\Day 14 project 2.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\obj\Debug\Day 14 project 2.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\obj\Debug\Day 14 project 2.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\obj\Debug\Day 14 project 2.exe
+D:\NBTRAININGS\DAY14 ASSIGNMENT\Day 14 project 2\Day 14 project 2\obj\Debug\Day 14 project 2.pdb
