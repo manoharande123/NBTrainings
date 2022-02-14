@@ -1,0 +1,13 @@
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\bin\Debug\ClintApp.exe.config
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\bin\Debug\ClintApp.exe
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\bin\Debug\ClintApp.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\obj\Debug\ClintApp.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\obj\Debug\ClintApp.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\obj\Debug\ClintApp.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\obj\Debug\ClintApp.exe
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\obj\Debug\ClintApp.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\bin\Debug\ManoharLibrary.dll
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\bin\Debug\PublicLibrary.dll
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\bin\Debug\ManoharLibrary.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\bin\Debug\PublicLibrary.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\ClintApp\obj\Debug\ClintApp.csproj.CopyComplete

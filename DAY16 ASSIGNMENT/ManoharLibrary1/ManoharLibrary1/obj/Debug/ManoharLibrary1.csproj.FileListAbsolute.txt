@@ -1,0 +1,6 @@
+D:\NBTRAININGS\DAY16 ASSIGNMENT\ManoharLibrary1\ManoharLibrary1\bin\Debug\ManoharLibrary1.dll
+D:\NBTRAININGS\DAY16 ASSIGNMENT\ManoharLibrary1\ManoharLibrary1\bin\Debug\ManoharLibrary1.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\ManoharLibrary1\ManoharLibrary1\obj\Debug\ManoharLibrary1.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\ManoharLibrary1\ManoharLibrary1\obj\Debug\ManoharLibrary1.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\ManoharLibrary1\ManoharLibrary1\obj\Debug\ManoharLibrary1.dll
+D:\NBTRAININGS\DAY16 ASSIGNMENT\ManoharLibrary1\ManoharLibrary1\obj\Debug\ManoharLibrary1.pdb

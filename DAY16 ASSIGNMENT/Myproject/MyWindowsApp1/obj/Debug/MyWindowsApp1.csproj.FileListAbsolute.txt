@@ -1,0 +1,16 @@
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\bin\Debug\MyWindowsApp1.exe.config
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\bin\Debug\MyWindowsApp1.exe
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\bin\Debug\MyWindowsApp1.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\bin\Debug\ManoharLibrary.dll
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\bin\Debug\PublicLibrary.dll
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\bin\Debug\ManoharLibrary.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\bin\Debug\PublicLibrary.pdb
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.Form1.resources
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.Properties.Resources.resources
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.csproj.GenerateResource.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.csproj.CopyComplete
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.exe
+D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\MyWindowsApp1\obj\Debug\MyWindowsApp1.pdb
