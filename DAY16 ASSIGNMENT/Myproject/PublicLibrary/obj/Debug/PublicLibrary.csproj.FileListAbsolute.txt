@@ -1,6 +1,5 @@
 D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\PublicLibrary\bin\Debug\PublicLibrary.dll
 D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\PublicLibrary\bin\Debug\PublicLibrary.pdb
-D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
 D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
 D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\PublicLibrary\obj\Debug\PublicLibrary.dll
 D:\NBTRAININGS\DAY16 ASSIGNMENT\Myproject\PublicLibrary\obj\Debug\PublicLibrary.pdb

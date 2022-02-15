@@ -16,6 +16,7 @@ namespace ClintApp
             Console.WriteLine(Mathematics.Add(5, 5));
             Console.WriteLine(Mathematics.Mul(2, 3));
             Console.WriteLine(Physics.FinalVelocity(2,3,4));
+            Console.WriteLine(Mathematics.GetDivision(6, 3));
             
             Console.ReadLine();
         }

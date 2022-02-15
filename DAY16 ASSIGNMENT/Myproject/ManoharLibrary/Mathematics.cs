@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ManoharLibrary
 {
-    public static class Mathematics
+    public static partial class Mathematics
     {
         public static int Factorial(int n)
         {
