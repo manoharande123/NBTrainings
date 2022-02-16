@@ -1,0 +1,17 @@
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\MathsLibraryTests.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\MathsLibraryTests.pdb
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\MathsLibrary.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\MathsLibrary.pdb
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\obj\Debug\MathsLibraryTests.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\obj\Debug\MathsLibraryTests.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\obj\Debug\MathsLibraryTests.csproj.CopyComplete
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\obj\Debug\MathsLibraryTests.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibraryTests\obj\Debug\MathsLibraryTests.pdb

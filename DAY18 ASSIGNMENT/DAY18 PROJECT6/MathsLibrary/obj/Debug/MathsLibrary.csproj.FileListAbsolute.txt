@@ -1,0 +1,5 @@
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibrary\bin\Debug\MathsLibrary.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibrary\bin\Debug\MathsLibrary.pdb
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibrary\obj\Debug\MathsLibrary.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibrary\obj\Debug\MathsLibrary.dll
+D:\NBTRAININGS\DAY18 ASSIGNMENT\DAY18 PROJECT6\MathsLibrary\obj\Debug\MathsLibrary.pdb
