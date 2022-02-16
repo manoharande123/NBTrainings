@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "883961d7-934d-4e12-8f8f-3d953ded16b5": {
+      "ProjectGuid": "883961d7-934d-4e12-8f8f-3d953ded16b5",
+      "DisplayName": "ManoharLibrary",
+      "ColorIndex": 0
+    },
+    "d13dd818-62ac-4418-9863-b5fbfa185b3f": {
+      "ProjectGuid": "d13dd818-62ac-4418-9863-b5fbfa185b3f",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

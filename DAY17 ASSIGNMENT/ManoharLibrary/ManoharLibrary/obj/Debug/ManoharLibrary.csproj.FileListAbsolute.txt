@@ -1,0 +1,2 @@
+D:\NBTRAININGS\DAY17 ASSIGNMENT\ManoharLibrary\ManoharLibrary\obj\Debug\ManoharLibrary.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY17 ASSIGNMENT\ManoharLibrary\ManoharLibrary\obj\Debug\ManoharLibrary.csproj.CoreCompileInputs.cache
