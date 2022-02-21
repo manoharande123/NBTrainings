@@ -1,0 +1,8 @@
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\bin\Debug\MyClientApp.exe.config
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\bin\Debug\MyClientApp.exe
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\bin\Debug\MyClientApp.pdb
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\obj\Debug\MyClientApp.exe
+D:\NBTRAININGS\DAY21 ASSIGNMENT\MyClientApp\MyClientApp\obj\Debug\MyClientApp.pdb
