@@ -1,0 +1,9 @@
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\bin\Debug\BussinessLogicLibrary.dll
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\bin\Debug\BussinessLogicLibrary.pdb
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\bin\Debug\DataAccessLayer.dll
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\bin\Debug\DataAccessLayer.pdb
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\obj\Debug\BussinessLogicLibrary.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\obj\Debug\BussinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\obj\Debug\BussinessLogicLibrary.csproj.CopyComplete
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\obj\Debug\BussinessLogicLibrary.dll
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\BussinessLogicLibrary\obj\Debug\BussinessLogicLibrary.pdb

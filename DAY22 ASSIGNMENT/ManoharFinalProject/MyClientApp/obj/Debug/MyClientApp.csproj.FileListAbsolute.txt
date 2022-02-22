@@ -1,0 +1,13 @@
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\bin\Debug\MyClientApp.exe.config
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\bin\Debug\MyClientApp.exe
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\bin\Debug\MyClientApp.pdb
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\bin\Debug\BussinessLogicLibrary.dll
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\bin\Debug\DataAccessLayer.dll
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\bin\Debug\BussinessLogicLibrary.pdb
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\bin\Debug\DataAccessLayer.pdb
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\obj\Debug\MyClientApp.exe
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\MyClientApp\obj\Debug\MyClientApp.pdb

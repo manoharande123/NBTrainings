@@ -1,0 +1,5 @@
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\NBTRAININGS\DAY22 ASSIGNMENT\ManoharFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

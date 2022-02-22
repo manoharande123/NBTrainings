@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bb86063-bdf9-4bde-8ff7-1cb85ab8e4ac": {
+      "ProjectGuid": "6bb86063-bdf9-4bde-8ff7-1cb85ab8e4ac",
+      "DisplayName": "ManoharFinalProject",
+      "ColorIndex": 0
+    },
+    "6263e540-ec57-4290-9d6e-eaa8761f413c": {
+      "ProjectGuid": "6263e540-ec57-4290-9d6e-eaa8761f413c",
+      "DisplayName": "BussinessLogicLibrary",
+      "ColorIndex": 1
+    },
+    "d8bb4eba-9095-49f5-b8e1-d12ece596110": {
+      "ProjectGuid": "d8bb4eba-9095-49f5-b8e1-d12ece596110",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "306d8d79-2eee-4750-a3e1-1f0dd7e9e369": {
+      "ProjectGuid": "306d8d79-2eee-4750-a3e1-1f0dd7e9e369",
+      "DisplayName": "MyClientApp",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
