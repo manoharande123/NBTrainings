@@ -3,3 +3,5 @@ DAY2: Python list ,Tuples ,Sets and Dictionaries
 DAY3: Conditional statements, loops and functions
 DAY4: Modules,Oops
 DAY5:Advance Topics, file handling
+
+Completing the GIT full course
